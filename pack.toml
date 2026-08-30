@@ -1,0 +1,13 @@
+name = "Journey MC"
+author = "GameOnHunter"
+version = "1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "df0490f7293fb0e3a3ce07cfbd365ef4173ad8e631addb6b8df879721bce78bd"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.249"

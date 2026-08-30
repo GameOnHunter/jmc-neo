@@ -1,0 +1,13 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".idea/jmc-neo.iml"
+hash = "c175f68ed3b5420621f4e81c25a5d205c21978b65b6c4f351a4000a43e6242ad"
+
+[[files]]
+file = ".idea/modules.xml"
+hash = "d82e850d1190514adecace8aa7d5de835c1d7d840b4d08eee52683d908bb782b"
+
+[[files]]
+file = ".idea/workspace.xml"
+hash = "38622167070887af8a6bfd59489c314e175309dae83681ad36561c8c3bdb363a"
