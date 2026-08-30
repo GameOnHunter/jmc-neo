@@ -1,0 +1,13 @@
+name = "Coordinates Display"
+filename = "CoordinatesDisplay-neoforge-13.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3mW8PdUo/versions/mjgftxvp/CoordinatesDisplay-neoforge-13.2.0.jar"
+hash-format = "sha512"
+hash = "c35522f1e51f2b8e49b6fe92839d290aa9855f983afe9a44449a59c2fb12c3514cc3c3868ce0b5ac0807005f7714bb9c79d7019243bbbbb4d95c8db71da1e22e"
+
+[update]
+[update.modrinth]
+mod-id = "3mW8PdUo"
+version = "mjgftxvp"

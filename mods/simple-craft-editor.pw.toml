@@ -1,0 +1,13 @@
+name = "Simple Craft Editor"
+filename = "SimpleCraftEditor-neoforge-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gj2KV14c/versions/kGWgFPF7/SimpleCraftEditor-neoforge-1.21.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "61928743cbe60631fa046f1cb60d9f9dba63a81ad19d4af5376263cb176de11fd9ef30c44e0573e54095d6313ead605a0b8a550aa4644cfc46addd2739725019"
+
+[update]
+[update.modrinth]
+mod-id = "gj2KV14c"
+version = "kGWgFPF7"

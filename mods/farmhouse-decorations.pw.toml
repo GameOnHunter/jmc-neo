@@ -1,0 +1,13 @@
+name = "Farmhouse Decorations"
+filename = "farmhouse_decorations-26.4.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fRCEQtWX/versions/JGvNie7e/farmhouse_decorations-26.4.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "5bd7d9b2af88686a665a505b73ffdaf878e111c6ba2b83d15bb2a74bb62a080b6f53a7d1f119aa12ab8fae6d0c04572dd4d2fc37ca664529ffd480ae7d49087f"
+
+[update]
+[update.modrinth]
+mod-id = "fRCEQtWX"
+version = "JGvNie7e"

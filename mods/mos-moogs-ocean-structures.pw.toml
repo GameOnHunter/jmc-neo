@@ -1,0 +1,13 @@
+name = "MOS - Moog's Ocean Structures"
+filename = "MoogsOceanStructures-universal-1.21-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZKBkklMv/versions/PckbTpU1/MoogsOceanStructures-universal-1.21-1.0.1.jar"
+hash-format = "sha512"
+hash = "ee3699f81d66032a15ecf496fcb4de6312be09c734a9dae05263cd2bd8645ef983e1ef7e57078c0de53d1b7b62621f6908fc925b606ed699f3da8b1a4670b403"
+
+[update]
+[update.modrinth]
+mod-id = "ZKBkklMv"
+version = "PckbTpU1"

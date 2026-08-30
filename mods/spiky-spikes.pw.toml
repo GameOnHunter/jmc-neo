@@ -1,0 +1,13 @@
+name = "Spiky Spikes"
+filename = "SpikySpikes-v21.1.2-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DUaLBLVL/versions/abYjOQe6/SpikySpikes-v21.1.2-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "7993586ef6d4ad7fa7ab5c9ad40d0fc53cd44f3025ef81950ee45c6463fa40e2e061e507a9afb0d4ba488bf898a4530bae1228f25d3e5cd82009193c1ce05645"
+
+[update]
+[update.modrinth]
+mod-id = "DUaLBLVL"
+version = "abYjOQe6"

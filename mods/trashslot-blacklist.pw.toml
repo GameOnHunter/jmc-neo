@@ -1,0 +1,13 @@
+name = "TrashSlot Blacklist Addon"
+filename = "trashslotblacklist-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2i4XY1L7/versions/Bm2Lxyr4/trashslotblacklist-1.0.2.jar"
+hash-format = "sha512"
+hash = "943a4f7b5c9c6e0ef0ea9550b3ac81facad5d2c610bc56b96d27f3c4d222f004453d6c5eab4b4f0d49f9375e3030520805d1c74f58c1d4cec0d7a0397973d149"
+
+[update]
+[update.modrinth]
+mod-id = "2i4XY1L7"
+version = "Bm2Lxyr4"
