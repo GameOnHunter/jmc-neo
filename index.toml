@@ -1451,16 +1451,6 @@ hash = "469666c31566b34351b044720e9ff920850e01f3c0350c74973fa9ff0b6a8aec"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "a609bfde1f92ebb5c5462a9a7aa0464888b5bdb271392c81787ff3e27239ce4a"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations.pw.toml"
-hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
-metafile = true
-
-[[files]]
 file = "resourcepacks/fresh-variants-and-ventures.pw.toml"
 hash = "710a29fead883a2df319be7fafcedadd526851d7337aaf3eff3fffa990504972"
 metafile = true
@@ -1481,11 +1471,6 @@ hash = "a513cdb77f9d2ba1660e96a4ba68289d44da19e9ca1fd9487f7c79d716354fa6"
 metafile = true
 
 [[files]]
-file = "resourcepacks/mizuno-x-fresh-animations.pw.toml"
-hash = "68f35d57aadb12b7c6722a22bd50ad2c7529a1b7a95447870aca2f250c83433a"
-metafile = true
-
-[[files]]
 file = "resourcepacks/mizunos-allay-variants.pw.toml"
 hash = "ab5ea31eaf36c9c13c9fe969765eb0423bf0aef433ee7ca1733e124c2772c5c7"
 metafile = true
@@ -1501,8 +1486,8 @@ hash = "9bd495776fb005e4a82da8a979b842100a55c35f41567361a401f014edfe8795"
 metafile = true
 
 [[files]]
-file = "resourcepacks/mizunos-chicken-variants-x-fa.pw.toml"
-hash = "2b7b50fef83ed7779e83c8aa7fec5bbbea33f1ceac134d2eb2e030c7109416a5"
+file = "resourcepacks/mizunos-chicken-variants.pw.toml"
+hash = "d74cf1ac18a05cc34146e36ee894b6446660f070a1b9491bc103e1bb79e9ff8f"
 metafile = true
 
 [[files]]
@@ -1511,8 +1496,8 @@ hash = "9943b5aeeb8a0f0876a17451a7fa981a12baa64fa19bdc8f08185b44c6183455"
 metafile = true
 
 [[files]]
-file = "resourcepacks/mizunos-cow-variants-x-fa.pw.toml"
-hash = "38db53f8183d5b8f99e5c14f5a8302b5f81cfde61ca234eb02fb52e75a5cdda5"
+file = "resourcepacks/mizunos-cow-variants.pw.toml"
+hash = "83d02abc478a390f9000874884adf92525cee1fd7fcde8e4081482baae91e495"
 metafile = true
 
 [[files]]
@@ -1521,8 +1506,8 @@ hash = "fba768cdd58027f68b528707764b7475943ec6341987549be39a38b90fa8ea4f"
 metafile = true
 
 [[files]]
-file = "resourcepacks/mizunos-pig-variants-x-fa.pw.toml"
-hash = "6375857a4cf8fa002d77bc0d9936b401896a6f490ca38d8dc36dbbf08b95200b"
+file = "resourcepacks/mizunos-pig-variants.pw.toml"
+hash = "a9851a307487aff79a0095c966ce527ebb333c1998eeb8d13579f48e73e11af0"
 metafile = true
 
 [[files]]
