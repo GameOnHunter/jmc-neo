@@ -1316,11 +1316,6 @@ hash = "dcce4d7009e0e279644fdd68ca3603634a06eb580c3eff6dacc8c34266fba837"
 metafile = true
 
 [[files]]
-file = "mods/vertical-slabs-compat.pw.toml"
-hash = "c4806d525cf95b6e884096253e14b1be875e8520e3ae19d13f71847a6192e0d9"
-metafile = true
-
-[[files]]
 file = "mods/via-romana.pw.toml"
 hash = "9e26a9936491607f08239c18d8d41327172a401ae70dbce5c5277573f9c05be2"
 metafile = true
