@@ -606,16 +606,6 @@ hash = "c74e103fe3b4e066ccb7aedcaeb1884a6cd18729699e68094194c7131c3ad119"
 metafile = true
 
 [[files]]
-file = "mods/icarus-rewinged.pw.toml"
-hash = "537d4f749669afb014bd78aba0955e718daa63b34fbbf74b1d86da0144b9204d"
-metafile = true
-
-[[files]]
-file = "mods/icarus.pw.toml"
-hash = "adfbe1920966d02f9bcfb44d44f6aaa6c383deed419cd7c405c16b57aaf68fda"
-metafile = true
-
-[[files]]
 file = "mods/illager-invasion.pw.toml"
 hash = "bf9baef8bb1145e580ae8ee57b285e22838e943c56a96ffb424fd02bf99c468e"
 metafile = true
@@ -1198,11 +1188,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "0c83b0949ea4bdde722335964979654ed3e79f74261e7b3e0076e3d1e544d89a"
-metafile = true
-
-[[files]]
-file = "mods/sword-blocking-mechanics.pw.toml"
-hash = "d763ba5877e694cd7372af7caac9aacb3382f64767cf6ed64a4b97ecde5bc4a1"
 metafile = true
 
 [[files]]
