@@ -1,0 +1,13 @@
+name = "GameRule Manager"
+filename = "gamerule_manager-2.0-beta.3-1.21.1-neoforge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/226Q16YJ/versions/Y8hbHHHq/gamerule_manager-2.0-beta.3-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "8444ba2c0994af26250656d2c837900ea5de459fb81b7caae2247b38abb08a45061f7c480f86b8c7e1a24e80b3ba6869f28c1921a73f968b94f92705c345a784"
+
+[update]
+[update.modrinth]
+mod-id = "226Q16YJ"
+version = "Y8hbHHHq"

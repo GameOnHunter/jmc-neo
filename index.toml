@@ -561,6 +561,11 @@ hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
 metafile = true
 
 [[files]]
+file = "mods/gamerule-manager.pw.toml"
+hash = "352ea26594df679bc5848b8096fec8f51fddbabb5fa39e86a8d6e7fc5b942156"
+metafile = true
+
+[[files]]
 file = "mods/gazebos.pw.toml"
 hash = "443188ff5efd47f1c0b5042092648d7882250388f9c71296d6daf46bf8c9daf5"
 metafile = true
@@ -1068,6 +1073,11 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "73b1e4f6608fcd396acc3e4e7aa753d314c8810ef4caf831ed93d9932d93f896"
+metafile = true
+
+[[files]]
+file = "mods/server-i18n-api.pw.toml"
+hash = "31d81068472044cf0d69fec666a6fd24a0986d894b8b8b247763caad9fc7588e"
 metafile = true
 
 [[files]]
