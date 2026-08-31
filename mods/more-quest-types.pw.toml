@@ -1,0 +1,13 @@
+name = "More Quest Types"
+filename = "more_quest_types-neoforge-1.3.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jE4d4DOP/versions/amU3p2VB/more_quest_types-neoforge-1.3.6.jar"
+hash-format = "sha512"
+hash = "2a183938976019f733476b9916556c24600f3535a4bf98baf0519525194892312fee7d6135282ffe57c1ddfa564284186dba2486fbdb220acefb28c7ffb16b2d"
+
+[update]
+[update.modrinth]
+mod-id = "jE4d4DOP"
+version = "amU3p2VB"

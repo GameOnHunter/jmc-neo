@@ -1,0 +1,13 @@
+name = "Fantastic Wings"
+filename = "FantasticWings-v21.1.2-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iGEcTqwK/versions/hX5hYT5c/FantasticWings-v21.1.2-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "8377a102c7c78efda852c8809d3273ee6c21271563e1646e21e276bd2e981f40922486f44a1d1e83cbf54314d669c5811fec6e89f31c18aed6af4583830f9c5a"
+
+[update]
+[update.modrinth]
+mod-id = "iGEcTqwK"
+version = "hX5hYT5c"
