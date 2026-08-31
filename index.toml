@@ -256,11 +256,6 @@ hash = "046642a0f4d4862c9d8625fcf7d33f8e08c0f1317ed2eabaf4e1f3597b3bb585"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
-metafile = true
-
-[[files]]
 file = "mods/convenient-effects.pw.toml"
 hash = "b50cea20e5d158440526ee78feaf57436acf64a581e58d920814eca5dce011c6"
 metafile = true
