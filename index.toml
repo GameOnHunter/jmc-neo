@@ -1,26 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/jmc-neo.iml"
-hash = "c175f68ed3b5420621f4e81c25a5d205c21978b65b6c4f351a4000a43e6242ad"
-
-[[files]]
-file = ".idea/modules.xml"
-hash = "d82e850d1190514adecace8aa7d5de835c1d7d840b4d08eee52683d908bb782b"
-
-[[files]]
-file = ".idea/vcs.xml"
-hash = "136f8b0a20e3e16f5b60e8505219c34746e1ec62c68433f4f8ec97eefe3aa038"
-
-[[files]]
-file = ".idea/workspace.xml"
-hash = "2776bf9856f1480bfee2a966b75b0924c96794790bb6f330f1b0cc657def06cb"
-
-[[files]]
-file = "extra/Update Instructions"
-hash = "d295c9b42c66a43b74599755e81305d006ea08b56b9180536f49c87f8abc67e3"
-
-[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "43ba915557b995369cf361808263555c761a5033927dddceca4dbb21079c18db"
 metafile = true
