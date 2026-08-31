@@ -1,0 +1,13 @@
+name = "Mizuno's x Handcrafted"
+filename = "Mizuno's x Handcrafted.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4OzrrgoD/versions/fL1fFtaA/Mizuno%27s%20x%20Handcrafted.zip"
+hash-format = "sha512"
+hash = "7aac450c2299f77f14c61580751aa0eb693af30057987f679df54bccdb370300152cc44e9d922015bbcdcf72ad5326887fd0ec354d118a9564c1ff7548bbb245"
+
+[update]
+[update.modrinth]
+mod-id = "4OzrrgoD"
+version = "fL1fFtaA"

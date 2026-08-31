@@ -1,0 +1,13 @@
+name = "Modded Mizuno - Supplementaries"
+filename = "Modded Mizuno -  Supplementaries.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OPKqU4La/versions/5rtbAani/Modded%20Mizuno%20-%20%20Supplementaries.zip"
+hash-format = "sha512"
+hash = "a1c09dc367c22744310db11d7197e40bd8a9f3a9afecfa0afdd9ed0322a59815d533d5fe3bcb88ba2f1a377b707c4e98be6d628aa4408c87316ef392dc51628e"
+
+[update]
+[update.modrinth]
+mod-id = "OPKqU4La"
+version = "5rtbAani"

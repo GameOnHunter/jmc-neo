@@ -1,0 +1,13 @@
+name = "Mizuno｜Sophisticated Storage"
+filename = "Mzuno SophStorage.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qqsml4nT/versions/g2tZV25l/Mzuno%20SophStorage.zip"
+hash-format = "sha512"
+hash = "4adb9f3149be224e39c7bfe5eb6a826436c00d2f69e49082bfb566001a51e362e62ea1fc3024cd20e05ffee6dad9bd7d04f8eb1565ea888e7347e3a264446b03"
+
+[update]
+[update.modrinth]
+mod-id = "qqsml4nT"
+version = "g2tZV25l"

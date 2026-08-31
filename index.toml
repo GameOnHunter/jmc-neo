@@ -268,6 +268,11 @@ hash = "046642a0f4d4862c9d8625fcf7d33f8e08c0f1317ed2eabaf4e1f3597b3bb585"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
+metafile = true
+
+[[files]]
 file = "mods/convenient-effects.pw.toml"
 hash = "b50cea20e5d158440526ee78feaf57436acf64a581e58d920814eca5dce011c6"
 metafile = true
@@ -365,11 +370,6 @@ metafile = true
 [[files]]
 file = "mods/diagonal-windows.pw.toml"
 hash = "218dcd780f0251a15f78b097206ea22a519d57b974b39e2fdd43dce91ac07133"
-metafile = true
-
-[[files]]
-file = "mods/display-delight.pw.toml"
-hash = "18219006cd971209a7630c5704c2ca92d5631f3d6ee6cb1c43975656c249ba0f"
 metafile = true
 
 [[files]]
@@ -590,6 +590,11 @@ metafile = true
 [[files]]
 file = "mods/goblin-traders.pw.toml"
 hash = "29abe36be13fe414e13125140f1c4fe373f7daf79a11ba511e0f77a47ea7f946"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
 metafile = true
 
 [[files]]
@@ -1133,6 +1138,16 @@ hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "9d4a04a61b2cebf80d76716f2d3c034d17f817327cbad6a79921a05c2e2c23a3"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "2d45e747634f18813476b01a13507fa99e01e330334f11c3ed8b6a074faf3b5f"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
 metafile = true
@@ -1160,6 +1175,11 @@ metafile = true
 [[files]]
 file = "mods/stoneworks.pw.toml"
 hash = "5f34acf1abde884e2e955103bcadfbd03652e0cd1d3e224ced4c4a1e9e1664c6"
+metafile = true
+
+[[files]]
+file = "mods/storage-delight.pw.toml"
+hash = "1f0065c7214cd6b83cfccd5eb85967b1091271e44e0e0f7b1eb3c4aa7f22b203"
 metafile = true
 
 [[files]]
@@ -1443,6 +1463,136 @@ hash = "a0d823abe0f59e943433820b7564d69cc453aa64b0ca472d242bd92dcb7cb215"
 metafile = true
 
 [[files]]
+file = "resourcepacks/appleskin-for-mizunos.pw.toml"
+hash = "4066ba29a79be07e018d5afe855413fd5084ca588a093dec0f85cd5c79db5c9f"
+metafile = true
+
+[[files]]
 file = "resourcepacks/attribute-icons-rpg-series.pw.toml"
 hash = "469666c31566b34351b044720e9ff920850e01f3c0350c74973fa9ff0b6a8aec"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "a609bfde1f92ebb5c5462a9a7aa0464888b5bdb271392c81787ff3e27239ce4a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-variants-and-ventures.pw.toml"
+hash = "710a29fead883a2df319be7fafcedadd526851d7337aaf3eff3fffa990504972"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mizuno-connected-texture.pw.toml"
+hash = "4f27a7357ae26066399aaea22cd06448e1bf9b2d6a95e44f723650687b78c398"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mizuno-emissive-ores.pw.toml"
+hash = "d89bf4a26d2398692f7e367b372cef80936b52fccaf8d9a31ba806f7a3e23ad3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mizuno-sophisticated-storage.pw.toml"
+hash = "a513cdb77f9d2ba1660e96a4ba68289d44da19e9ca1fd9487f7c79d716354fa6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mizuno-x-fresh-animations.pw.toml"
+hash = "68f35d57aadb12b7c6722a22bd50ad2c7529a1b7a95447870aca2f250c83433a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mizunos-allay-variants.pw.toml"
+hash = "ab5ea31eaf36c9c13c9fe969765eb0423bf0aef433ee7ca1733e124c2772c5c7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mizunos-better-crops.pw.toml"
+hash = "f5b82a5a18c583f95172fa4f7c21dcf6835d50c453d9e9b8c8fb4200a7ceff1c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mizunos-better-grass.pw.toml"
+hash = "9bd495776fb005e4a82da8a979b842100a55c35f41567361a401f014edfe8795"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mizunos-chicken-variants-x-fa.pw.toml"
+hash = "2b7b50fef83ed7779e83c8aa7fec5bbbea33f1ceac134d2eb2e030c7109416a5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mizunos-connected-glass.pw.toml"
+hash = "9943b5aeeb8a0f0876a17451a7fa981a12baa64fa19bdc8f08185b44c6183455"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mizunos-cow-variants-x-fa.pw.toml"
+hash = "38db53f8183d5b8f99e5c14f5a8302b5f81cfde61ca234eb02fb52e75a5cdda5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mizunos-fox-variants.pw.toml"
+hash = "fba768cdd58027f68b528707764b7475943ec6341987549be39a38b90fa8ea4f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mizunos-pig-variants-x-fa.pw.toml"
+hash = "6375857a4cf8fa002d77bc0d9936b401896a6f490ca38d8dc36dbbf08b95200b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mizunos-tinker-edition.pw.toml"
+hash = "12d4ff72de645c51d7c47b816ae00358a5c7de0dd5aa5578484f3324b3b26504"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mizunos-x-farmers-delight.pw.toml"
+hash = "af6d69a522b34020a43bc282f61790b1586d428f861e24d6ab170d58fe62f643"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mizunos-x-handcrafted.pw.toml"
+hash = "93e256caec34b6f4e0ba7766c7f99c7c6754d470db9a2f78fc5f59711e0502e8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mizunos-x-letsdo-furniture.pw.toml"
+hash = "656ce8454b3a448048d9e33804c3f0de5912d14d95dd82a179c2e7e34c1bc976"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mizunos-x-storage-delight.pw.toml"
+hash = "6ab5389140c3018288460de96c2ea52bbf7045adb89fca032d988b1dbc8a9ecd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mizunos-x-waystones.pw.toml"
+hash = "7398232d70b4c884c0efff4c68f052ea890234624327290bff307986d019f8f4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/modded-mizuno-supplementaries.pw.toml"
+hash = "b01acfd9f1a754467fd3b408e4eb9a66a15b8529b541b73975bcf64408f4304c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/modern-mizunos.pw.toml"
+hash = "6129953229fca86f427a7f2ae1daf6ca3e13ab35c6dba10ae5b4c50b16ceac3e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "ea258ed5bf495d9017eeadc3cbf9bd67b1e672d843826bc077135548b5bc699e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "608b87f75b2387a9fbd340cb18a8238bbbe5a0afc54202634b34f3000246b6e7"
 metafile = true
