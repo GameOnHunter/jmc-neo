@@ -814,7 +814,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "9127392b5239785d4e090d5528cb728b3243d91148f54d0d990c329c1569e361"
+hash = "c84140c66f233909b392bd7253ca33c59903ffda51beff558d9a2a4a8c6bc269"
 metafile = true
 
 [[files]]
@@ -859,7 +859,7 @@ metafile = true
 
 [[files]]
 file = "mods/mtr-moogs-temples-reimagined.pw.toml"
-hash = "11e546afa7b525a6934a8d408f90664c5796542b6564c16b0d6d1b0cca564ba9"
+hash = "a4e397db2cc76b67867b5e5d12e4ab7d30cb169059ba750eff6557d843362f99"
 metafile = true
 
 [[files]]
@@ -1234,7 +1234,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage.pw.toml"
-hash = "8757967b6fda327281f7f360f2ac4f8d6aab217ad9d1ce3d8fa5141b18a36175"
+hash = "a303683e4c74640f419c31db329e9afc3ee8f388abc5c6a536dc6169c274b5c6"
 metafile = true
 
 [[files]]
