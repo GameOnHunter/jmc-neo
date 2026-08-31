@@ -9,8 +9,16 @@ file = ".idea/modules.xml"
 hash = "d82e850d1190514adecace8aa7d5de835c1d7d840b4d08eee52683d908bb782b"
 
 [[files]]
+file = ".idea/vcs.xml"
+hash = "136f8b0a20e3e16f5b60e8505219c34746e1ec62c68433f4f8ec97eefe3aa038"
+
+[[files]]
 file = ".idea/workspace.xml"
-hash = "38622167070887af8a6bfd59489c314e175309dae83681ad36561c8c3bdb363a"
+hash = "2776bf9856f1480bfee2a966b75b0924c96794790bb6f330f1b0cc657def06cb"
+
+[[files]]
+file = "extra/Update Instructions"
+hash = "d295c9b42c66a43b74599755e81305d006ea08b56b9180536f49c87f8abc67e3"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -1125,11 +1133,6 @@ metafile = true
 [[files]]
 file = "mods/skills.pw.toml"
 hash = "87ce844ff87267bc95027b95c970c58298d4a6882bb2b620551c8a309f1c8e81"
-metafile = true
-
-[[files]]
-file = "mods/slot-cycler.pw.toml"
-hash = "2979d8b1ea93c2f86f923999966fb78408d09d0e6f8d114f80b97d7b99a536fa"
 metafile = true
 
 [[files]]
