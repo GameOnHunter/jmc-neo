@@ -71,6 +71,11 @@ hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
 metafile = true
 
 [[files]]
+file = "mods/areas.pw.toml"
+hash = "5869048d0fd7f0252a3cdb01afe78082951be0fcefe119931e7a9517ef5474ff"
+metafile = true
+
+[[files]]
 file = "mods/armor-model-api.pw.toml"
 hash = "4bd0e82462255e556d3b0b34ea2e37258c0f61d87af9dd81819d3c73f9b1a0cd"
 metafile = true
@@ -356,6 +361,11 @@ hash = "218dcd780f0251a15f78b097206ea22a519d57b974b39e2fdd43dce91ac07133"
 metafile = true
 
 [[files]]
+file = "mods/dimswap.pw.toml"
+hash = "326c97670f6204bf3f9f6244bf55a1e40db3c7356a49f57030bd6a32b7c4e6cc"
+metafile = true
+
+[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "406fd938da34e8d3beae9a7c82eed3ef5d20053a9d9ab4c5b76357e39e58bbc5"
 metafile = true
@@ -363,6 +373,11 @@ metafile = true
 [[files]]
 file = "mods/dot-beyond-vanilla.pw.toml"
 hash = "b339522e7ca80424446834c4ec31e7fa167d4de8a9cd585189d54a070316f888"
+metafile = true
+
+[[files]]
+file = "mods/draggable-lists.pw.toml"
+hash = "50de1919e6cc3104a4a2557b0644c15f5a56722cf76a19b194ec6ecf61bcae13"
 metafile = true
 
 [[files]]
@@ -1438,11 +1453,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/attribute-icons-rpg-series.pw.toml"
 hash = "469666c31566b34351b044720e9ff920850e01f3c0350c74973fa9ff0b6a8aec"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-variants-and-ventures.pw.toml"
-hash = "710a29fead883a2df319be7fafcedadd526851d7337aaf3eff3fffa990504972"
 metafile = true
 
 [[files]]
