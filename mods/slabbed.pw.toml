@@ -1,0 +1,13 @@
+name = "Slabbed"
+filename = "slabbed-0.6.7-alpha+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5nraCxl9/versions/2aNaY0MJ/slabbed-0.6.7-alpha%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "ad441f39cb09030620632899fea97056dc6de26207eb6e5f918d418143d9a12c81bcc0eb03083db9a2ea409945ab10c74eeede91b3378ff9252d3b090fedb14c"
+
+[update]
+[update.modrinth]
+mod-id = "5nraCxl9"
+version = "2aNaY0MJ"

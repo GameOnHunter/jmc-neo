@@ -126,6 +126,11 @@ hash = "89d5086e2383c436bcedadc91aff9d69ec6a59d2bacbbba6b5d59e2d74576a69"
 metafile = true
 
 [[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
+metafile = true
+
+[[files]]
 file = "mods/better-beacon-placement.pw.toml"
 hash = "f130adaa07e1db40707bffab3f33d58b27d2278e6ce0a26eea988d16295df185"
 metafile = true
@@ -266,8 +271,8 @@ hash = "b50cea20e5d158440526ee78feaf57436acf64a581e58d920814eca5dce011c6"
 metafile = true
 
 [[files]]
-file = "mods/coordinates-display.pw.toml"
-hash = "c38a24ecb0e48e5a10ce9afe4fec52f2a9be0219291160bfc1696cd5f35fcb19"
+file = "mods/copycats.pw.toml"
+hash = "4892513825f87217b6cc3f4d3ec4dcd3965b96dede8cc10d6578c4769102ae8e"
 metafile = true
 
 [[files]]
@@ -283,6 +288,41 @@ metafile = true
 [[files]]
 file = "mods/craterlib.pw.toml"
 hash = "31411fced67d5b743f6cd1ce2be55e4bce428de8df2fe38c6a39097099da5e4f"
+metafile = true
+
+[[files]]
+file = "mods/create-connected.pw.toml"
+hash = "6ac362d60bc8b13e03a5b6b9cdf9c7676f65d3e89e87c66f18514e7ee164cdb0"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "e05bc0c3ee97da0dfcf9dabd3c3eaee0e90819091ead3f500ddc3b1caf77fe54"
+metafile = true
+
+[[files]]
+file = "mods/create-encased.pw.toml"
+hash = "cf8533b0310f49fc8db0a22bb56f6de8684ac817cc42ac195997abe91d37c99b"
+metafile = true
+
+[[files]]
+file = "mods/create-mechanical-spawner.pw.toml"
+hash = "8d9f6438c0e03857f55b3b6fe2383fb8393c01c8d41012cf5032fdedd184575a"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails-1.21.1.pw.toml"
+hash = "80332cead695f1e3c27e99133a48709767d1106f836792bb2fc4d594b88f1a68"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
@@ -476,6 +516,11 @@ hash = "e5fdbe5353ed67ab4c26e3377606506856e17bd633256b1a9b37c1a19c5a117c"
 metafile = true
 
 [[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "a245469cf91e7f3c8aec3b0f5ad3d79b1846ac0696543f892b426faea5f91cab"
+metafile = true
+
+[[files]]
 file = "mods/explore-ruins-aether.pw.toml"
 hash = "16b082c327765a09d35c5ea1f5ea478a692a4546fc61af7ed8e9cd1916fc036f"
 metafile = true
@@ -651,6 +696,11 @@ hash = "117a2d6ab1059e9d3bf65c4f17e4268797184bc7f9f4a17197ce92b5841ea26b"
 metafile = true
 
 [[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "ed85b2ed42beb6523223eef6f0ae397ed29f8059b2bf5aa08d8598de04865614"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
@@ -766,6 +816,11 @@ hash = "2c31453e756e64c0f9edcad1f716900ddd07b1ea4c8c955a2d001725c65366c1"
 metafile = true
 
 [[files]]
+file = "mods/mechanicals-lib.pw.toml"
+hash = "c9e181185e3177d43fc9bd8d919288ac1bc0ce6b85e7049890f3eb231f5be10d"
+metafile = true
+
+[[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
 hash = "1cb8c40a13f61da31fd0a038d94c5fc289765a88379940d39061411707dae1a2"
 metafile = true
@@ -816,6 +871,11 @@ hash = "c84140c66f233909b392bd7253ca33c59903ffda51beff558d9a2a4a8c6bc269"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "685dd055cd08d821f106b723c8a08c47bc2a15dc70e26a4e8c41e28d0be1e13b"
+metafile = true
+
+[[files]]
 file = "mods/monolib.pw.toml"
 hash = "e0ee74eb150e202cf7eb0bf807116cbb2a4b2ea8af6d9ac331e491b60d65805d"
 metafile = true
@@ -848,6 +908,11 @@ metafile = true
 [[files]]
 file = "mods/mos-moogs-ocean-structures.pw.toml"
 hash = "30b378ce72cce4217738931daf56242775ab30b3f66013ebecaf326b2b38ddb3"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "f12ee0c88176e66a61de272f1be98077a86560c199903514de7657564130c34f"
 metafile = true
 
 [[files]]
@@ -1011,6 +1076,11 @@ hash = "7fc653d77e2f6f083f95a1dc0b89645498684e9c721b6aad27d60b1ecafc870e"
 metafile = true
 
 [[files]]
+file = "mods/punchy-fpa.pw.toml"
+hash = "5eb2da392fda896ac20e0eeb83d96a154e8714af836d07a45c7c43633239205f"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
 metafile = true
@@ -1126,6 +1196,21 @@ hash = "87ce844ff87267bc95027b95c970c58298d4a6882bb2b620551c8a309f1c8e81"
 metafile = true
 
 [[files]]
+file = "mods/slabbed.pw.toml"
+hash = "22a18beddc6f8c0eed5fd995d2b48676fc358a22a038d2ef57a7ed0c9cf5a70e"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "3c24accda8011a6a5e04c49c40e39617bb04ab3a549d8f2e8180d3246fddac39"
+metafile = true
+
+[[files]]
+file = "mods/smooth-swapping.pw.toml"
+hash = "c29444a15935e622aaf6a8849cbed78095c1f9328315383a382859b3872d97ee"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
@@ -1142,7 +1227,12 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
+hash = "6727704e22c27be46fc08859f94dd0061cecf27ed2a7451c5bc1a0bdf50edbe5"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "4063a3c0f2f9a6544a870f0b90679441d7333652875dafbe3db255fc67f72c82"
 metafile = true
 
 [[files]]
@@ -1173,6 +1263,11 @@ metafile = true
 [[files]]
 file = "mods/storage-delight.pw.toml"
 hash = "1f0065c7214cd6b83cfccd5eb85967b1091271e44e0e0f7b1eb3c4aa7f22b203"
+metafile = true
+
+[[files]]
+file = "mods/streams-reflowing.pw.toml"
+hash = "e435e575d164b1310c0af181e820ae8728804f85e39b1ad15539137c83d0afff"
 metafile = true
 
 [[files]]
