@@ -1,12 +1,12 @@
 name = "Journey MC"
 author = "GameOnHunter"
-version = "16.0.0"
+version = "17.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "912b69eec852d43b27de2a10e6dc41f781fb09e1e413b0d783f38be633fcc0f4"
+hash = "5bd8ffb1af9165ef5b3bde406689de49327083f5e378ee147492311a42d3b33e"
 
 [versions]
 minecraft = "1.21.1"

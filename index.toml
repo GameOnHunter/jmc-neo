@@ -1146,11 +1146,6 @@ hash = "0ca4e4a6dc001eb5fb81d1817cb8b209e86cb8541a77f6e1de23d92a0e20f45c"
 metafile = true
 
 [[files]]
-file = "mods/rrls.pw.toml"
-hash = "624e7455a378da6bce5b9fdd97e27c4125472cdac0173c73a8406f2067ef07a9"
-metafile = true
-
-[[files]]
 file = "mods/runes.pw.toml"
 hash = "05c5359a4419b39c0e72c2693f0cda3bc5959520fe42b348d3bd701384491aef"
 metafile = true
