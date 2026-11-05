@@ -1,13 +1,13 @@
 name = "Enchantment Insights"
-filename = "EnchantmentInsights-v21.1.4-mc1.21.1-NeoForge.jar"
+filename = "EnchantmentInsights-v21.1.5-mc1.21.1-NeoForge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/xLSpHE43/versions/FOOZoKsU/EnchantmentInsights-v21.1.4-mc1.21.1-NeoForge.jar"
+url = "https://cdn.modrinth.com/data/xLSpHE43/versions/WpxqM4fh/EnchantmentInsights-v21.1.5-mc1.21.1-NeoForge.jar"
 hash-format = "sha512"
-hash = "507418e2822357fe643734014496ca973c6cb14007972419c3cbe0eebd840a8083dafbf4f6318304765b8eee97eb5ee3c5190d0558e360e8eed0e5387d18422a"
+hash = "1e3e858bcfaf7a3b3a88d655cffc20343f5b3c5bb3ea2bf1497ae5bf4be6a52e9b1a040f671120412e44d5a6ceca6dd54ca4e0b307380e5077efed0edc36b066"
 
 [update]
 [update.modrinth]
 mod-id = "xLSpHE43"
-version = "FOOZoKsU"
+version = "WpxqM4fh"

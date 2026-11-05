@@ -1,13 +1,13 @@
 name = "Moog's Glow Up"
-filename = "MoogsGlowUp-neoforge-1.21.1-1.2.2.jar"
+filename = "MoogsGlowUp-neoforge-1.21.1-2.3.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/iLlwyhcZ/versions/zvbZ3xgb/MoogsGlowUp-neoforge-1.21.1-1.2.2.jar"
+url = "https://cdn.modrinth.com/data/iLlwyhcZ/versions/Pdr7untx/MoogsGlowUp-neoforge-1.21.1-2.3.0.jar"
 hash-format = "sha512"
-hash = "3d368290e95b03822f5400de7f438db9059ced7ff50825368183be3dc48ba8a4b4062b3fb53d9de88f9b2ace0a23481a8754fbba27656da03089dfe708b50cc7"
+hash = "1463f2f6927f12ffc772d9f5292aa576784abea5c39384ff829357ad6ce0c0c64cac501c8521eb959a5174421ab1fc74872c1eb3a6b6fa77236cb392514ee113"
 
 [update]
 [update.modrinth]
 mod-id = "iLlwyhcZ"
-version = "zvbZ3xgb"
+version = "Pdr7untx"

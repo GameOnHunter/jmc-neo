@@ -1,13 +1,13 @@
 name = "Reliable Name Tags"
-filename = "reliablenametags-2.0.0+1.21.1-neoforge.jar"
+filename = "reliablenametags-2.1.0+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xvUE2Syx/versions/gaLUbm0T/reliablenametags-2.0.0%2B1.21.1-neoforge.jar"
+url = "https://cdn.modrinth.com/data/xvUE2Syx/versions/Xwnew5yY/reliablenametags-2.1.0%2B1.21.1-neoforge.jar"
 hash-format = "sha512"
-hash = "22b3c09bfa29d7092981c310d071d8550aa5ae19675923e7da58b69aa07aa66b9b9308281007e28b63cc340b026de02615087990d8d99eca9f219a76e3960a93"
+hash = "9d3b2ff561be08eee4ce6487ec4fff581b2c0ae055f2f4d9847ad9a2e219f06849f6d537dc8677bc812a8d9d3c389d5ab09d1a28a5846818b6acb183254b78af"
 
 [update]
 [update.modrinth]
 mod-id = "xvUE2Syx"
-version = "gaLUbm0T"
+version = "Xwnew5yY"

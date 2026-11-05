@@ -1,13 +1,13 @@
 name = "TrashSlot Blacklist Addon"
-filename = "trashslotblacklist-1.0.2.jar"
+filename = "trashslotblacklist-neoforge-1.21.1-1.1.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/2i4XY1L7/versions/Bm2Lxyr4/trashslotblacklist-1.0.2.jar"
+url = "https://cdn.modrinth.com/data/2i4XY1L7/versions/QScodPMi/trashslotblacklist-neoforge-1.21.1-1.1.0.jar"
 hash-format = "sha512"
-hash = "943a4f7b5c9c6e0ef0ea9550b3ac81facad5d2c610bc56b96d27f3c4d222f004453d6c5eab4b4f0d49f9375e3030520805d1c74f58c1d4cec0d7a0397973d149"
+hash = "942e1138b460da88a6d8fcc25cbac894bf12f159d6f288df006bde25ab59e7360e0af205546892dd0c4609a5229962593c5509d1e7ca49631fc54f1ba566f6a8"
 
 [update]
 [update.modrinth]
 mod-id = "2i4XY1L7"
-version = "Bm2Lxyr4"
+version = "QScodPMi"
