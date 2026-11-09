@@ -1,0 +1,13 @@
+name = "ExtraLib"
+filename = "ExtraLib-3.3.1-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2GNqVOLH/versions/dyHKYrNa/ExtraLib-3.3.1-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "96a9e31447206ce3f793d4fa387588e62b1160af672738a81b6048b30c8a6bc66e0a795a9839addd4058f171355c14183938b7fca697e2d67448a6a7cf9931ea"
+
+[update]
+[update.modrinth]
+mod-id = "2GNqVOLH"
+version = "dyHKYrNa"

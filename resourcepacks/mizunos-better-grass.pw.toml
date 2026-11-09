@@ -1,13 +1,13 @@
 name = "Mizuno's Better Grass"
-filename = "Mizuno's Better Grass 1.5.zip"
+filename = "Mizuno's Better Grass 1.6.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/HcZFw2yC/versions/5HSMOEh1/Mizuno%27s%20Better%20Grass%201.5.zip"
+url = "https://cdn.modrinth.com/data/HcZFw2yC/versions/y3Zp6m81/Mizuno%27s%20Better%20Grass%201.6.zip"
 hash-format = "sha512"
-hash = "21114a0993d7b3a99089358b1b7d6ef7a088ea71e83ecf3dce06dd78f2f343df9e4a3bd6e6d08043d7b6e5ea39f6603c8d61ecd631a436fe8fb58b866aa35f55"
+hash = "f3c06410bda6a52fab70bc059862e651de93a3f0d30b599b3cd7267d85a7152d9aa38470c03afa71227bb58989f4e410645c691a5e60667374615ea8e04fecaf"
 
 [update]
 [update.modrinth]
 mod-id = "HcZFw2yC"
-version = "5HSMOEh1"
+version = "y3Zp6m81"
