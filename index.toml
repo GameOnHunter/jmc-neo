@@ -146,11 +146,6 @@ hash = "438170e7e704a1b8ed67bf0521dc5d77cdeeaabf6f729dba9f8dfdad75330acf"
 metafile = true
 
 [[files]]
-file = "mods/better-than-mending.pw.toml"
-hash = "12b0b7e34d631a5f2b6a544bb0a549d48201671feac81a9ce0766db091adbd6e"
-metafile = true
-
-[[files]]
 file = "mods/better-tridents.pw.toml"
 hash = "f8a38924e14f920e143eca6225cb2a8151d7c2978bf36869fe3290e1302bd6a4"
 metafile = true
@@ -843,6 +838,11 @@ metafile = true
 [[files]]
 file = "mods/mechanicals-lib.pw.toml"
 hash = "c9e181185e3177d43fc9bd8d919288ac1bc0ce6b85e7049890f3eb231f5be10d"
+metafile = true
+
+[[files]]
+file = "mods/mendingremover.pw.toml"
+hash = "54d8bdddb7b9e32da7ceb6fe0f112788eb90c11662fe988c7bbb5717f1c6895e"
 metafile = true
 
 [[files]]
