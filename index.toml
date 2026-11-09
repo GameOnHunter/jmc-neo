@@ -406,11 +406,6 @@ hash = "218dcd780f0251a15f78b097206ea22a519d57b974b39e2fdd43dce91ac07133"
 metafile = true
 
 [[files]]
-file = "mods/dimswap.pw.toml"
-hash = "326c97670f6204bf3f9f6244bf55a1e40db3c7356a49f57030bd6a32b7c4e6cc"
-metafile = true
-
-[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "aad33740ad909e25fb947cf20a6e7547ff000678061478caa8cc1fa8946d2a68"
 metafile = true
@@ -956,11 +951,6 @@ hash = "bc9449306cb2c32f16347779291d68e5fba67f85d7aca04b4b9cc1c033ec4083"
 metafile = true
 
 [[files]]
-file = "mods/multiworld.pw.toml"
-hash = "7b329b1c605a86df77d5bc601fac60f84b269145ccbbc01c0907215eaec6f54f"
-metafile = true
-
-[[files]]
 file = "mods/mvsi-moogs-voyager-structures-integrated.pw.toml"
 hash = "cf73d8d583486f2520c5bc4f6077fd852846a3091afa27fd38d580491897510d"
 metafile = true
@@ -1216,11 +1206,6 @@ hash = "77e3c81c00c0a4c61aedea5e57760dac58f181788d670012e66f60614365def3"
 metafile = true
 
 [[files]]
-file = "mods/slabbed.pw.toml"
-hash = "4ac42e88ef8ec4ea2d4ac7b38caa6d45864c27f53c66803fff8dc60efa554d75"
-metafile = true
-
-[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "3c24accda8011a6a5e04c49c40e39617bb04ab3a549d8f2e8180d3246fddac39"
 metafile = true
@@ -1338,11 +1323,6 @@ metafile = true
 [[files]]
 file = "mods/the-aethers-delight.pw.toml"
 hash = "055283aa7790b335df36917fd72eb9f35f4d5cbe3a1e66d53efba4fe79ec1266"
-metafile = true
-
-[[files]]
-file = "mods/the-block-box.pw.toml"
-hash = "34e8d5d17a485e43e5a89bccad58c267dd62755bf43901c33bccf15ae4ea8723"
 metafile = true
 
 [[files]]
