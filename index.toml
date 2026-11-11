@@ -641,11 +641,6 @@ hash = "f2849c357f9c82d017ff71c6d5e91ac8e51d6b0f2de9e7ae8d95bfb81759cd63"
 metafile = true
 
 [[files]]
-file = "mods/gamerule-manager.pw.toml"
-hash = "352ea26594df679bc5848b8096fec8f51fddbabb5fa39e86a8d6e7fc5b942156"
-metafile = true
-
-[[files]]
 file = "mods/gazebos.pw.toml"
 hash = "443188ff5efd47f1c0b5042092648d7882250388f9c71296d6daf46bf8c9daf5"
 metafile = true
