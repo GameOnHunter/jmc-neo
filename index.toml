@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
+hash = "9412ae80a3b8633c4b8507402610c4d8ad3e27809a27a9a76263d16fa7347b2e"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "b443caaf51cd5d30231d8967d6b217ea57826bb7920716fe27aead95cb435014"
+hash = "9d9802c9b8af95c7e98356371cad12a2d87b4609c7bafe36c63352e7d448b58c"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-encased.pw.toml"
-hash = "cf8533b0310f49fc8db0a22bb56f6de8684ac817cc42ac195997abe91d37c99b"
+hash = "f3b613518dc7c420ddf22a0212bbb1df390d8e14c4899d7a11b3a938b67d0914"
 metafile = true
 
 [[files]]
@@ -447,17 +447,17 @@ metafile = true
 
 [[files]]
 file = "mods/easy-npc-config-ui.pw.toml"
-hash = "07a8f6888bbdac433cc3e287e7b9ceb9a5c8ec07ebdf5a9aa03ab65a101fdbd9"
+hash = "64e2c36a9e81d3f1ec0f8c99bf77a340dbbc91f05573128d3566151d743d148c"
 metafile = true
 
 [[files]]
 file = "mods/easy-npc-core.pw.toml"
-hash = "fac27e1f9e138da2a2ca72edacf65282c8f4d07feaea27097053dfb2ff4692f7"
+hash = "b5fe2365592dfc654607c68eccd9601d9ff6762f7bef46da29774773b63ee576"
 metafile = true
 
 [[files]]
 file = "mods/easy-npc.pw.toml"
-hash = "61ba80a654ef0a268a206a8efbd19bf58f690e1e2c860797f2c02df04758e418"
+hash = "3a4b6822857e04e5e7d0ca6f148b1cdba804b5dc940e29b39aa3a3af8a29bab8"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "426238488c9ffd843f661f8bc74aa8e585fa6b4d342c43c4ba4cb8451298b725"
+hash = "d518db51c2502b5b04d6ca4add6a2b3e862a0af15e7a65f0ab83180778adb604"
 metafile = true
 
 [[files]]
@@ -847,7 +847,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "8d9faf79c73b3f209a8f8513010b2389f9e3c2f1dd7e73b796c3f9ab7fd7e11a"
+hash = "17349f449c2aab2a2b83cc0e471ab6002b039e2db56262274b4e0869d576b6e0"
 metafile = true
 
 [[files]]
@@ -872,7 +872,7 @@ metafile = true
 
 [[files]]
 file = "mods/mob-plaques.pw.toml"
-hash = "7b033d51436a444681a50a575dbad4af45ef37066a9e4b8f6da871f26b9c9f45"
+hash = "b17a4ac0971fdc0a4ff05c3bfcf1139ece1ccbf959b556165573df82e102e3a6"
 metafile = true
 
 [[files]]
@@ -1032,7 +1032,7 @@ metafile = true
 
 [[files]]
 file = "mods/particular-reforged.pw.toml"
-hash = "383d9891f716981f418f6e2a97a5eeeee43912975d90d9ab4ffbfe98a832e40e"
+hash = "45d6f9ac203536d03136d75dff52c381daf72311af19bc12805a007b31c8f112"
 metafile = true
 
 [[files]]
@@ -1087,7 +1087,7 @@ metafile = true
 
 [[files]]
 file = "mods/punchy-fpa.pw.toml"
-hash = "9ad1e41c4ea57f0a926071139369892968565a2af3f8b1c363b62934a7b2c9ae"
+hash = "8a33559da1d1dd21462ed5e31e90116473fe61befbb5cd32f4df5890b21d0c0d"
 metafile = true
 
 [[files]]
@@ -1122,7 +1122,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-name-tags.pw.toml"
-hash = "9c111ab33525d7f0436cd1cdf49b09ebf0c5b6ff6853b8ea54f5549ada4d20c3"
+hash = "dd9a2bca3f4480d44e1b83d378202e9ac9b0f8603dac14265bd9dc7901461fab"
 metafile = true
 
 [[files]]
@@ -1147,7 +1147,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "87708c5cf041f2c7eede5dc1a5ee0dd517a13c0c7e8c40c359669a5ffabef7db"
+hash = "3fd46074e11e2bd48428951850aae57d6b14265ecb51ee7dded45471b03f1f0e"
 metafile = true
 
 [[files]]
@@ -1217,12 +1217,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "899a6b03dc738f5638a4ad88015c6737bfa9abbe3d30d89e84cbdd5aa8ab40eb"
+hash = "37d7f4f675745426675aca481229e26706c4d9196db009070e27ce5c2db3563c"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "571bfc56ab43f32cb09fab3f9a04c0363dc82a5f9b9ca2785b15708e453e3be0"
+hash = "0f41c917f1091923bb27756879c51da6436fa660d66857be4523cc78ef5c0833"
 metafile = true
 
 [[files]]
@@ -1267,12 +1267,12 @@ metafile = true
 
 [[files]]
 file = "mods/streams-reflowing.pw.toml"
-hash = "c15f828f93a3ee5765f882d1be4a39fb1386f7e040e1d2e1d81e513c9af23f04"
+hash = "fb79b5151a916ab846a47ce858a79ce74f96e973a8a698187b5ca8cfe2fdd4da"
 metafile = true
 
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
-hash = "27fbafdc78a4a3cb8badb58078ec1f2837e65a5bbe5160e344b0fb3e779c9efe"
+hash = "3661ea8cde82e3d8a692344c4a9f8d31ad487e86f99d47a8b1189ff4eab71eeb"
 metafile = true
 
 [[files]]
@@ -1282,7 +1282,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "44979474c0c4b83cae395f6c414919388a60cc8e5dbded9de9f6ac8df889cf51"
+hash = "50f93855520354d8323b9590f5be09e4c8ce6ef212a6c384534b5c3eb7490ea0"
 metafile = true
 
 [[files]]
@@ -1302,7 +1302,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "c7e7206384e1d5ab7caecc643dda50dae1886312e0aeca5aaef8852bb6b11b4e"
+hash = "6b7fe7dddd1ae7b41e2de7ef622981a2a1daad26c9a164e084c8aeffb47e8c30"
 metafile = true
 
 [[files]]
@@ -1432,7 +1432,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "2dad5577c5ec5e73bb3d5cec8da606e3b72e384207c9291a25e1ae96fd20bb70"
+hash = "870219130f6ab3005d0ed77ff73070074bd2780f09ef67f57d5d9a2199b40e9f"
 metafile = true
 
 [[files]]
@@ -1443,11 +1443,6 @@ metafile = true
 [[files]]
 file = "mods/wizards.pw.toml"
 hash = "e6e7bdb68b3a0a824b3c6a19c7f4ec880555f912d6f354d67bbd4c8250922591"
-metafile = true
-
-[[files]]
-file = "mods/worldedit.pw.toml"
-hash = "de999f6cc4c2f344e324b4f331fa9767844c31463c6e8066fcd67b613338ab8c"
 metafile = true
 
 [[files]]
@@ -1582,7 +1577,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mizunos-better-crops.pw.toml"
-hash = "cfea890b4a7440af71872e34ed847c79cdc28298e2190fd63b66619efa4bc523"
+hash = "255b7b1f153398e769cd4df21a1aac3b4d0cb13d6d22dd4d92fcea696fbd8b06"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Mob Plaques"
-filename = "MobPlaques-v21.1.1-1.21.1-NeoForge.jar"
+filename = "mobplaques-v21.1.2-mc1.21.1+neoforge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/3b1CFIR5/versions/gDwygHA5/MobPlaques-v21.1.1-1.21.1-NeoForge.jar"
+url = "https://cdn.modrinth.com/data/3b1CFIR5/versions/4bGt2upI/mobplaques-v21.1.2-mc1.21.1%2Bneoforge.jar"
 hash-format = "sha512"
-hash = "b511dd3698ff09491918c131c2c934fe5955b040fcda010b4a6e9917d4a6aaf54efeddaaba5c684ea76c65ff826f8ff7faf48bc571c42bc55d8dbf1a8bc47a80"
+hash = "bc7bdea40c203e6c926a11259f7d0e49e0828170c7f2ec5a1c6d01549940d78a89166906aa23d31e7affbf05bb1b3fe4e289decf70bf706ac405ec7fd5a24c3c"
 
 [update]
 [update.modrinth]
 mod-id = "3b1CFIR5"
-version = "gDwygHA5"
+version = "4bGt2upI"
